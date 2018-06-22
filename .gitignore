@@ -1,1 +1,4 @@
+.DS_Store
 *.o
+*.tmp
+config/secret.key
